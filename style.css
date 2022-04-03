@@ -1,0 +1,82 @@
+body{
+    margin: 1;
+    padding: 0;
+    font-family: sans-serif;
+    background-position : center;
+    border-color: black;
+  background-image: url(ddd.png);
+    background-position: center;
+    background-size: cover;
+   
+   
+
+    
+
+}
+
+.sign-up-form
+{
+    width:300px;
+    padding :20px;
+    margin : 8% auto 0;
+    text-align:center;
+    border-color: #1c8adb;
+    background: #fff;
+   
+
+
+}
+.sign-up-form h1
+{
+    outline-color: black;
+margin-bottom:30px;
+}
+
+
+
+.input-box{
+    border-radius : 20px;
+    padding: 10px;
+    margin:7px 0;
+    width: 90%;
+    border-color: rgba(28, 25, 25, 0.084);
+    outline: none;
+}
+
+button{
+    color: #fff;
+    padding: 10px;
+    margin : 8% auto 0;
+    width: 100%;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    border-color: rgba(28, 25, 25, 0.084);
+
+
+
+}
+.signup-btn
+{
+    background-color:#1c8adb ;
+    border-radius: 2ch;
+
+}
+.fb-btn
+{
+    background-color: #21afde;
+    border-radius: 2ch;
+
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.or
+{
+    background : #fff;
+    width :30px;
+    margin: -19px auto 10px;
+
+}
+
